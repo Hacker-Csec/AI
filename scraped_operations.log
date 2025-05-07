@@ -1,0 +1,41 @@
+2025-05-07 17:54:08,009 - INFO - Successfully loaded existing scraped.json
+2025-05-07 17:54:08,010 - INFO - Successfully read content from temp.txt
+2025-05-07 17:54:08,010 - INFO - Added new entry with ID 296
+2025-05-07 17:54:08,056 - INFO - Successfully saved updated scraped.json
+2025-05-07 17:54:10,057 - INFO - Successfully cleared temp.txt
+2025-05-07 17:55:56,041 - INFO - Successfully loaded existing scraped.json
+2025-05-07 17:55:56,042 - INFO - Successfully read content from temp.txt
+2025-05-07 17:55:56,042 - INFO - Added new entry with ID 297
+2025-05-07 17:55:56,090 - INFO - Successfully saved updated scraped.json
+2025-05-07 17:55:58,093 - INFO - Successfully cleared temp.txt
+2025-05-07 17:57:57,910 - INFO - Successfully loaded existing scraped.json
+2025-05-07 17:57:57,911 - INFO - Successfully read content from temp.txt: 4 lines, 30 words
+2025-05-07 17:57:57,911 - INFO - Added new entry with ID 298
+2025-05-07 17:57:57,961 - INFO - Successfully saved updated scraped.json
+2025-05-07 17:57:59,962 - INFO - Successfully cleared temp.txt
+2025-05-07 17:58:15,703 - INFO - Successfully loaded existing scraped.json
+2025-05-07 17:58:15,705 - INFO - Successfully read content from temp.txt: 0 lines, 0 words
+2025-05-07 17:58:15,705 - INFO - Added new entry with ID 299
+2025-05-07 17:58:15,752 - INFO - Successfully saved updated scraped.json
+2025-05-07 17:58:17,754 - INFO - Successfully cleared temp.txt
+2025-05-07 18:00:07,381 - INFO - Successfully loaded existing scraped.json
+2025-05-07 18:00:07,382 - INFO - Successfully read content from temp.txt: 0 lines, 0 words
+2025-05-07 18:02:50,816 - INFO - Successfully loaded existing scraped.json
+2025-05-07 18:02:50,817 - INFO - Successfully read content from temp.txt: 0 lines, 0 words
+2025-05-07 18:03:27,224 - INFO - Successfully loaded existing scraped.json
+2025-05-07 18:03:27,229 - ERROR - Failed to read content from temp.txt with any encoding
+2025-05-07 18:04:34,120 - INFO - Successfully loaded existing scraped.json
+2025-05-07 18:04:34,122 - ERROR - Error reading temp.json: Expecting value: line 1 column 1 (char 0)
+2025-05-07 18:06:09,761 - WARNING - temp.txt not found
+2025-05-07 18:06:23,285 - INFO - Successfully loaded existing scraped.json
+2025-05-07 18:08:33,762 - INFO - Successfully loaded existing scraped.json
+2025-05-07 18:09:33,772 - INFO - Successfully loaded existing scraped.json
+2025-05-07 18:17:06,162 - INFO - Successfully loaded existing scraped.json
+2025-05-07 18:17:33,813 - INFO - Successfully loaded existing scraped.json
+2025-05-07 18:18:41,999 - INFO - Successfully loaded existing scraped.json
+2025-05-07 18:27:39,087 - INFO - Successfully loaded existing scraped.json
+2025-05-07 18:27:39,092 - ERROR - Error processing content: torch.cat(): expected a non-empty list of Tensors
+2025-05-07 18:28:18,913 - INFO - Added entry 304 to scraped.json
+2025-05-07 18:28:32,504 - INFO - Added entry 305 to scraped.json
+2025-05-07 18:30:30,460 - INFO - Added entry 306 to scraped.json
+2025-05-07 19:54:28,496 - INFO - Added entry 501 to scraped.json
